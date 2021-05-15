@@ -1,7 +1,7 @@
 
-# PYTHON DATA SCIENCE ASSIGNMENT -- CS29006
-# PACKAGE FOR ASSIGNMENT O3 -- QUESTION O2
-# by NAKUL AGGARWAL     |   19CS10044
+## PYTHON DATA SCIENCE ASSIGNMENT -- CS29006
+## PACKAGE FOR ASSIGNMENT O3 -- QUESTION O2
+## by NAKUL AGGARWAL     |   19CS10044
 
 This is a package that contains all the necessory tools to modify / transform
 PIL images / numpy 3-D arrays and perform object detection on the same.
